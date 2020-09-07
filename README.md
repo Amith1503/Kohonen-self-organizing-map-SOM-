@@ -10,7 +10,6 @@ topological neighbourhood N i,j (k) of node (j) around the winning unit (i) is g
 
 ![Screenshot](screenshot.png)
 
-And d i,j is the distance between the winning node i and surrounding node j.
 a) Generate a figure of the original grid (random weights) followed by figures of the SOM after 20, 40, 100, 1000
 epochs. Change the value of σ = 1, 10, 30, 50, 70.
 b) Draw conclusions on how the output changes with σ and the number of epochs.
